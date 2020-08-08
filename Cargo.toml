@@ -1,0 +1,14 @@
+[package]
+name = "crepes"
+version = "0.0.1"
+authors = ["Nikola Hristov <nikola@playform.cloud>"]
+edition = "2018"
+description = "A compiler for reactive views in HTML with JavaScript"
+documentation = "https://docs.rs/crepes/"
+readme = "README.md"
+repository = "https://github.com/CrepesJS/crepes"
+license-file = "LICENSE"
+keywords = ["crepes", "web", "framework", "ssr"]
+categories = ["web-programming"]
+
+[dependencies]
